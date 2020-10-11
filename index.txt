@@ -1,1 +1,1 @@
-Hello cobra, my names jack, fiyaa
+Hello world, my first commit
